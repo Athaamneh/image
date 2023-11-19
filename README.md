@@ -21,7 +21,7 @@ _ABDALLAH_
 
 | athamneh | abdallah |
 |----------|----------|
-| wlaue | hsdgbadb |
+| arja | barca |
 - [x] riq
 [ayu ] des
 > This is a blockquote
